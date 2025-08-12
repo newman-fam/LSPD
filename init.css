@@ -1,12 +1,13 @@
 :root
 {
     --background-image-url: url("car.webp");
-    --link-card-button-background-color: ##4d7de3;
+    --link-card-button-background-color: #9861ff;
     --link-card-button-background-color-hover: #4d7de3;
     --block-background-color: rgba(17, 34, 64, 0.6);
     /*--block-background-color: #11224099 if wanna use hex value */
     /* #RRGGBBAA R red, G grean, B blue, A alfa(opacity) */
 
 }
+
 
 
