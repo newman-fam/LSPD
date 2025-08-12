@@ -2,9 +2,10 @@
 {
     --background-image-url: url("car.webp");
     --link-card-button-background-color: ##4f87ff;
-    --link-card-button-background-color-hover: #357abd;
+    --link-card-button-background-color-hover: #7abeff;
     --block-background-color: rgba(17, 34, 64, 0.6);
     /*--block-background-color: #11224099 if wanna use hex value */
     /* #RRGGBBAA R red, G grean, B blue, A alfa(opacity) */
 
 }
+
